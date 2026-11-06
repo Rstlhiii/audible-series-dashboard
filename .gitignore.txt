@@ -1,0 +1,4 @@
+audible_session.json
+audible_library.html
+__pycache__/
+*.pyc
